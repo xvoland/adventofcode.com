@@ -1,2 +1,0 @@
-# adventofcode.com
-adventofcode.com
