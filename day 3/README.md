@@ -8,7 +8,7 @@
 ```
 
 
-
+# Task
 #### Day 3: No Matter How You Slice It
 
 The Elves managed to locate the chimney-squeeze prototype fabric for Santa's suit (thanks to someone who helpfully wrote its box IDs on the wall of the warehouse in the middle of the night). Unfortunately, anomalies are still affecting them - nobody can even agree on how to cut the fabric.
@@ -62,3 +62,29 @@ The four square inches marked with X are claimed by both 1 and 2. (Claim 3, whil
 If the Elves all proceed with their own plans, none of them will have enough fabric.
 
 **How many square inches of fabric are within two or more claims?**
+
+
+
+
+
+# Result:
+
+```
+	0000000000
+	0000000000
+	0000011110
+	0222211110
+	0222211110
+	02222XX110
+	0222233000
+	0000000000
+	0000000000
+	0000000000
+
+Inches: 2
+	#1 @ 2,5: 4x4
+	#2 @ 3,1: 4x4
+	#3 @ 5,5: 2x2
+```
+
+
