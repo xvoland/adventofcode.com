@@ -12,11 +12,10 @@
 ## Configuration Of Output
 
 ```
-
 @define(FILENAME, 'day3.txt');			// filename
-@define(SIZE, 1000);					// matrix size
-@define(SYMBOL, '<b>X</b>');			// symbol for crossing
-@define(SHOW_DATA, false);				// show output data?
+@define(SIZE, 1000);								// matrix size
+@define(SYMBOL, '<b>X</b>');				// symbol for crossing
+@define(SHOW_DATA, false);					// show output data?
 ```
 
 
