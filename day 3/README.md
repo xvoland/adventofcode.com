@@ -1,6 +1,6 @@
 ### PHP Day 3: No Matter How You Slice It
 
-**Contacts:**
+**Contacts**
 
 ```
 	Email: xvoland@gmail.com
@@ -8,7 +8,20 @@
 ```
 
 
-# Task
+
+## Configuration Of Output
+
+```
+
+@define(FILENAME, 'day3.txt');			// filename
+@define(SIZE, 1000);					// matrix size
+@define(SYMBOL, '<b>X</b>');			// symbol for crossing
+@define(SHOW_DATA, false);				// show output data?
+```
+
+
+
+## Task
 #### Day 3: No Matter How You Slice It
 
 The Elves managed to locate the chimney-squeeze prototype fabric for Santa's suit (thanks to someone who helpfully wrote its box IDs on the wall of the warehouse in the middle of the night). Unfortunately, anomalies are still affecting them - nobody can even agree on how to cut the fabric.
